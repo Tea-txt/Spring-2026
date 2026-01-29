@@ -1,0 +1,25 @@
+
+// numbers are written as follows 1_000_000
+fn Fahrenheit_to_celsius(y:f32) -> f32{
+    let x = 32;
+    let d = 1.8
+    //println! ("{}",((y-x)/d));
+    
+}
+fn celsius_to_fahrenheit (k:f32) -> f32{
+let x = 32;
+let d = 1.8
+println! ("{}", ((k*d)+x))
+}
+const: i32 = 32
+
+fn main() {
+   // let mut result: f32 = 0.0; // varible needs to be declared in a way so it can be changed
+    println!("{}",get_number(10));
+
+    //let result = x* (y as i32); // implicit conversion
+    // f32 = float, i32 = int
+}
+fn RGB (n:char) -> (uB, uB, uB){ //declaring a new function to return a tuple
+
+}
